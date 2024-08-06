@@ -1,0 +1,32 @@
+{
+    "name": "Homework 5",
+    "endpoint": "cal/cs61a/su24/hw05",
+    "src": [
+        "hw05.py"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "Player",
+        "Game",
+        "AggressivePlayer",
+        "CautiousPlayer",
+        "add_d_leaves",
+        "level_mutation_link",
+        "store_digits",
+        "deep_map_mut",
+        "crispr_gene_insertion",
+        "transcribe"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "help",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

@@ -1,0 +1,5 @@
+'cumulative_mul-correct', (0, 66)
+'delete-correct', (512, 66)
+'convert_link-correct', (1024, 66)
+'add_links-correct', (1536, 66)
+'multiply_lnks-correct', (2048, 66)

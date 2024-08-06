@@ -1,0 +1,28 @@
+{
+    "name": "Homework 7",
+    "endpoint": "cal/cs61a/su24/hw07",
+    "src": [
+        "hw07.sql",
+        "hw07.scm"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "by_parent_height",
+        "size_of_dogs",
+        "sentences",
+        "low_variance",
+        "add-leaf"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "help",
+        "backup"
+    ]
+}

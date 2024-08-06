@@ -1,0 +1,26 @@
+{
+    "name": "Lab 5",
+    "endpoint": "cal/cs61a/su24/lab05",
+    "src": [
+        "lab05.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "partial_reverse",
+        "group_by",
+        "distance",
+        "closer_city",
+        "check_city_abstraction"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

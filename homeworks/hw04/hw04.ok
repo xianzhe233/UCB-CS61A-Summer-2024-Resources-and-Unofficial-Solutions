@@ -1,0 +1,28 @@
+{
+    "name": "Homework 4",
+    "endpoint": "cal/cs61a/su24/hw04",
+    "src": [
+        "hw04.py"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "hailstone",
+        "merge",
+        "perms",
+        "yield_paths",
+        "Minty",
+        "VendingMachine"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "help",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

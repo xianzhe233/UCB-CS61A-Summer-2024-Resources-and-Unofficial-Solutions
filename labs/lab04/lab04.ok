@@ -1,0 +1,27 @@
+{
+    "name": "Lab 4",
+    "endpoint": "cal/cs61a/su24/lab04",
+    "src": [
+        "lab04.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "lists-wwpd",
+        "pokemon",
+        "flatten",
+        "merge",
+        "size_of_tree",
+        "replace_loki_at_leaf"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

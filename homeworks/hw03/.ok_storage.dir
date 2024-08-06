@@ -1,0 +1,6 @@
+'pascal-correct', (0, 66)
+'insert_items-correct', (512, 66)
+'total_mass-correct', (1024, 66)
+'balanced-correct', (1536, 66)
+'berry_finder-correct', (2048, 66)
+'max_path_sum-correct', (2560, 66)
