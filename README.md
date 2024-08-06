@@ -1,7 +1,4 @@
-# UCB-CS61A-Summer-2024-Resources-and-Unofficial-Solutions
-
-This repository contains resources and solutions for the CS61A Summer 2024 course.
-
+# UCB CS61A Summer 2024  Resources & Unofficial-Solutions
 ## Solutions
 
 ### Overview
