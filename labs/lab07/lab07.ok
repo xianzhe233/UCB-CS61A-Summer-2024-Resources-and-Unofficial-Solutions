@@ -1,0 +1,28 @@
+{
+    "name": "Lab 7",
+    "endpoint": "cal/cs61a/su24/lab07",
+    "src": [
+        "lab07.py",
+        "classes.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test",
+        "classes.py": "doctest"
+    },
+    "default_tests": [
+        "midsem_survey",
+        "Account",
+        "FreeChecking",
+        "BankAccount",
+        "Client"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

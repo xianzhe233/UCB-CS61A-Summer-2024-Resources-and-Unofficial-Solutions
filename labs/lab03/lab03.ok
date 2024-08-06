@@ -1,0 +1,25 @@
+{
+    "name": "Lab 3",
+    "endpoint": "cal/cs61a/su24/lab03",
+    "src": [
+        "lab03.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "double_eights",
+        "make_onion",
+        "mario_number",
+        "max_subseq"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

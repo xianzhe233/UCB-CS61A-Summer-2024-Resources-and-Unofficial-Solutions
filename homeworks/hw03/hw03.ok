@@ -1,0 +1,28 @@
+{
+    "name": "Homework 3",
+    "endpoint": "cal/cs61a/su24/hw03",
+    "src": [
+        "hw03.py"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "pascal",
+        "insert_items",
+        "total_mass",
+        "balanced",
+        "berry_finder",
+        "max_path_sum"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "help",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

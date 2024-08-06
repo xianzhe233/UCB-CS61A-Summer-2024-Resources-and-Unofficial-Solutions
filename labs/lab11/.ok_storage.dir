@@ -1,0 +1,7 @@
+'kwlist-construct-correct', (0, 66)
+'kwlist-add-correct', (512, 66)
+'kwlist-get-correct', (1024, 66)
+'sharing-correct', (1536, 66)
+'pairs-correct', (2048, 66)
+'big-correct', (2560, 66)
+'remaining-correct', (3072, 66)

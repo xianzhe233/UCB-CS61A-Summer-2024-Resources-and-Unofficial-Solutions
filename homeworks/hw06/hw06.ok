@@ -1,0 +1,29 @@
+{
+    "name": "Homework 6",
+    "endpoint": "cal/cs61a/su24/hw06",
+    "src": [
+        "hw06.scm"
+    ],
+    "tests": {
+        "hw*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "pow",
+        "repeatedly-cube",
+        "cadr-caddr",
+        "ascending",
+        "filter",
+        "no_repeats",
+        "longest-increasing-subsequence"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "help",
+        "grading",
+        "analytics",
+        "unlock",
+        "backup"
+    ]
+}
