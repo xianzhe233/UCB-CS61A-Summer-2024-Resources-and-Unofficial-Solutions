@@ -26,3 +26,4 @@
 
 - **UCB Account Required**: Some resources may require access to a UCB account.
 - **Report Issues**: If you encounter any problems or have suggestions for improvements, please feel free to create an issue.
+- **Course Official Website**: [cs61a.org](cs61a.org)
